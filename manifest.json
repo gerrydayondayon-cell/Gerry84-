@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Adds horrifying, distorted textures and animations for the Creepy Horse.",
+    "name": "Creepy Horse Mod (Resource Pack)",
+    "uuid": "8f3b2a74-12cd-4e56-b789-0123456789ab",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "Resource pack modules for the Creepy Horse mod",
+      "type": "resources",
+      "uuid": "9e4c3b85-23de-5f67-c890-123456789abc",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "YourName"
+    ],
+    "license": "MIT"
+  }
+}
