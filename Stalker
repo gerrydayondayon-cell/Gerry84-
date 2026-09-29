@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Adds horrifying custom Stalker entities to your world.",
+    "name": "Stalker Add-on",
+    "uuid": "4f7a83d2-1c9e-4b8a-9d3f-5e6c7a8b9c0d",
+    "version":,
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "Behavior configurations for the Stalker entities.",
+      "type": "data",
+      "uuid": "8e3b2a1c-4d5e-6f7a-8b9c-0d1e2f3a4b5c",
+      "version": [1, 0, 0]
+    }
+  ]
+}
